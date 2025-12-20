@@ -1,4 +1,4 @@
-# SPEC-1-Facebook Email Extraction Tool
+# Facebook Email Extraction Tool
 
 ## Background
 
